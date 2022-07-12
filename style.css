@@ -203,6 +203,12 @@ ul {
   font-size: 22px;
   line-height: 27px;
   text-transform: uppercase;
+  transition: .2s ease;
+}
+
+.btn-buy:hover {
+  color: #52A1FF;
+  border-color: #52A1FF;
 }
 
 .price {
